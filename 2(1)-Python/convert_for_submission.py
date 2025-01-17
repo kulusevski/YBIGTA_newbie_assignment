@@ -1,6 +1,6 @@
-PATH_1 = "/Users/joseph/Downloads/ybigta/교육세션 2회차/2(1)-Python/1-divide-and-conquer-multiplication"
-PATH_2 = "/Users/joseph/Downloads/ybigta/교육세션 2회차/2(1)-Python/2-trie"
-PATH_3 = "/Users/joseph/Downloads/ybigta/교육세션 2회차/2(1)-Python/3-segment-tree"
+PATH_1 = "./2(1)-Python/1-divide-and-conquer-multiplication"
+PATH_2 = "./2(1)-Python/2-trie"
+PATH_3 = "./2(1)-Python/3-segment-tree"
 
 ROOT_PATH = {
     "10830": PATH_1,
@@ -11,7 +11,7 @@ ROOT_PATH = {
     "17408": PATH_3
 }
 
-PATH_SUB = "/Users/joseph/Downloads/ybigta/교육세션 2회차/2(1)-Python/submission"
+PATH_SUB = "./2(1)-Python/submission"
 
 
 def f(n: str) -> None:
